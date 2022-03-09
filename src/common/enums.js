@@ -1,0 +1,17 @@
+// API STATUS
+export const API_STATUS = {
+	NONE: 0,
+	REQUEST: 1,
+	SUCCESS: 2,
+	FAILURE: 3,
+};
+
+// COMMENT
+
+export const COMMENT_CONTENT_STATUS = {
+	NONE: 0,
+	SELECTED: 1,
+	ADD: 2,
+	UPDATE: 3,
+	DELETE: 4,
+};

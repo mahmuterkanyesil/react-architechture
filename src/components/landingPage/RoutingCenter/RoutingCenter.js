@@ -28,7 +28,6 @@ const RoutingCenter = ({from, to}) => {
 }
 
 RoutingCenter.propTypes = {
-    routes: PropTypes.array.isRequired,
     from: PropTypes.string.isRequired,
     to: PropTypes.string.isRequired,
 };
